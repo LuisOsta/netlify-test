@@ -4,7 +4,7 @@ base = ""
 
 publish = "client/public/"
 
-command = "cd client && npm run build"
+command = "npm run build-client"
 
 functions = "serverless/"
 
